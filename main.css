@@ -1,0 +1,23 @@
+.menu{
+  position: fixed;
+  margin: 15% 0;
+  top: 0;
+  right: 0;
+  width: 150px;
+}
+.menu ul{
+  position: relative;
+  list-style: none;
+}
+.menu ul li{
+  background-color: #D4F2DF;
+  border: 1px solid #074E68;
+  padding: 2px 2px;
+  display: inline-block;
+  width: 100%;
+  float: left;
+}
+.menu ul li a{
+  text-decoration: none;
+  color: #074E68;
+}
